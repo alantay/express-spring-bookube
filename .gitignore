@@ -1,0 +1,19 @@
+# Java / Spring Boot
+target/
+*.class
+*.log
+*.jar
+
+# Node / Express
+node_modules/
+dist/
+.env
+
+# Next.js
+.next/
+out/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
